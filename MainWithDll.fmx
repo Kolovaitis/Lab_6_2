@@ -1,0 +1,36 @@
+object FormMain: TFormMain
+  Left = 0
+  Top = 0
+  BorderIcons = [biSystemMenu, biMinimize]
+  BorderStyle = Single
+  Caption = 'Lab 6.2'
+  ClientHeight = 362
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  DesignerMasterStyle = 0
+  object MainMenu: TMainMenu
+    Left = 304
+    Top = 224
+    object MIToStart: TMenuItem
+      Text = #1053#1072#1095#1072#1083#1086
+      OnClick = MIToStartClick
+    end
+    object MIterm: TMenuItem
+      Text = #1059#1089#1083#1086#1074#1080#1077
+      OnClick = MItermClick
+    end
+  end
+  object BGetAnswer: TButton
+    Position.X = 256.000000000000000000
+    Position.Y = 304.000000000000000000
+    Size.Width = 121.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Text = #1055#1086#1089#1095#1080#1090#1072#1090#1100' '#1086#1090#1074#1077#1090
+    OnClick = BGetAnswerClick
+  end
+end

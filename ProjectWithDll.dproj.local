@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.633,=C:\Users\kna20\OneDrive\Документы\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.438,C:\Users\kna20\OneDrive\Рабочий стол\Лаба 6.2\MainWithDll.fmx=C:\Users\kna20\OneDrive\Документы\Embarcadero\Studio\Projects\Unit4.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.438,C:\Users\kna20\OneDrive\Рабочий стол\Лаба 6.2\MainWithDll.pas=C:\Users\kna20\OneDrive\Документы\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.614,C:\Users\kna20\OneDrive\Рабочий стол\Лаба 6.2\ProjectWithDll.dproj=C:\Users\kna20\OneDrive\Документы\Embarcadero\Studio\Projects\Project4.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
